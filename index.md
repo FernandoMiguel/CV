@@ -54,7 +54,8 @@ __Computer and Electronic Engineering__
 
 ## Publications
 
-`Terraform Registry`
+### Terraform Registry
+
 __Terraform module to easily deploy Chamber__
 
 [Harpocrates Module](https://github.com/yopaproperty/terraform-AWS-Harpocrates)
