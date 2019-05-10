@@ -20,6 +20,7 @@ Building and improving the security aspects of a real-estate in London.
 Building and operating medium to large Public Cloud web services with aim at upscaling teams to operate in a DevSecOps culture.
 
 ### Key Skills
+
 * Amazon Web Services
 * Cloud Computing, IaaS
 * FaaS / Serverless
@@ -29,55 +30,30 @@ Building and operating medium to large Public Cloud web services with aim at ups
 * DevSecOps, DevOps, SysOps
 * Security and Encryption
 
-### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+### Profile
 
+Fernando is a Cloud Engineer with 20 years of experience. Currently working as Cloud Security Engineer and member of the DevOps team, implementing highly-available cost-effective cloud computing environments managed by Infrastructure-as-code. Firm believer of the future Computing-at-Edge technology.
 
-## Education
+Fernando has worked in both public and private sectors, having managed a number of platforms and technologies. A long time Open Source and Opens Formats advocate, Fernando has focused his skills in security and web services. Recognized and active member of the AWS User Group UK and contributor to various open-source projects, ranging from Debian, Ubuntu, pidgin, and network-manager.
 
-`1654-1660`
-__The King's School, Grantham.__
+## Education and Qualifications
+`AWS Certified Solutions Architect`
+__Professional Level__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`Degree in Computer and Electronic Engineering`
+__Instituto Superior de Engenharia do Porto__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
+`Degree in Informatics Engineering`
+__Instituto Superior de Engenharia do Porto__
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`Harpocrates`
+__Terraform module to easily deploy Chamber.__
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+[Harpocrates Module](https://github.com/yopaproperty/terraform-AWS-Harpocrates)
 
 
 ## Occupation
