@@ -38,14 +38,17 @@ Fernando is a Cloud Engineer with 20 years of experience. Currently working as C
 Fernando has worked in both public and private sectors, having managed a number of platforms and technologies. A long time Open Source and Opens Formats advocate, Fernando has focused his skills in security and web services. Recognized and active member of the AWS User Group UK and contributor to various open-source projects, ranging from Debian, Ubuntu, pidgin, and network-manager.
 
 ## Education and Qualifications
-`AWS Certified Solutions Architect`
-__Professional Level__
+`AWS`
+__`Certified Solutions Architect`__
+* Professional Level
 
-`Degree in Computer and Electronic Engineering`
-__Instituto Superior de Engenharia do Porto__
+`Degree`
+__Computer and Electronic Engineering__
+* Instituto Superior de Engenharia do Porto
 
-`Degree in Informatics Engineering`
-__Instituto Superior de Engenharia do Porto__
+__Informatics Engineering__
+* Instituto Superior de Engenharia do Porto
+
 
 
 ## Publications
