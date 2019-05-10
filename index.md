@@ -39,6 +39,7 @@ Fernando has worked in both public and private sectors, having managed a number 
 
 ## Education and Qualifications
 `AWS`
+
 __`Certified Solutions Architect`__
 * Professional Level
 
@@ -53,7 +54,7 @@ __Informatics Engineering__
 
 ## Publications
 
-`Harpocrates`
+`Terraform Registry`
 __Terraform module to easily deploy Chamber.__
 
 [Harpocrates Module](https://github.com/yopaproperty/terraform-AWS-Harpocrates)
