@@ -1,24 +1,33 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Fernando Pereira's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Fernando Pereira
+DevSecOps
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="striving@FernandoMiguel.net">striving@FernandoMiguel.net</a>
+| <a href="https://github.com/FernandoMiguel/">My GitHub</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Building and improving the security aspects of a real-estate in London.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Building and operating medium to large Public Cloud web services with aim at upscaling teams to operate in a DevSecOps culture.
 
+### Key Skills
+* Amazon Web Services
+* Cloud Computing, IaaS
+* FaaS / Serverless
+* Infrastructure-as-Code, Terraform
+* Machine Learning, Linux System,
+* Containers, Docker
+* DevSecOps, DevOps, SysOps
+* Security and Encryption
 
 ### Research interests
 
@@ -86,6 +95,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2019 -->
 
 
