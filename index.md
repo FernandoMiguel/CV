@@ -83,21 +83,21 @@ __Mainroad__, Porto
 __Matir Internacional Têxteis, S.A.__, St. Tirso
 
 
-### Relevant Experience & Projects
+## Relevant Experience & Projects
 
-#### DevSecOps Engineer
+### DevSecOps Engineer
 __Yopa__
 - Coded and deployed source control backed AWS IAM account.
 
 
-#### DevOps Engineer
+### DevOps Engineer
 __Sohonet__
 - Coded and deployed source control backed AWS IAM account. This IAM account managed federated users into permission based roles
 - Configured a Hashicorp Vault cluster to maintain SSHCA secrets for remote servers
 - Internal Information and Cyber Security Audit (gap analysis against the MPAA requirements).
 
 
-#### Senior AWS Consultant
+### Senior AWS Consultant
 __Methods__
 - Definition of technology strategies to ensure alignment between vision and technology direction
 - Accurate infrastructure assessments, providing risk analysis and costs for cloud migration and planning
@@ -109,7 +109,7 @@ __Methods__
 - Optimised CDN and Backend resources to improve site performance sub 2 seconds load time worldwide.
 
 
-#### System Administrator
+### System Administrator
 __Rocket Internet GmbH__
 - Founding team member for the European tech centre of Rocket Internet
 - Development, deployment and maintenance of e-commerce server clusters
@@ -119,14 +119,14 @@ __Rocket Internet GmbH__
 - Establishing and testing disaster recovery policies and procedures.
 
 
-#### Webserver admin
+### Webserver admin
 __Porto Editora__
 - Management and deployment of testing, QA and Productive environments for a large number of sites and web services
 - Updates, upgrades, and patches in a timely manner to limit loss of service
 - Job knowledge updates by tracking emerging Internet technologies.
 
 
-#### Support Services Unix
+### Support Services Unix
 __Mainroad__
 - Operation of backups Data Protector
 - Support of Unix, HPUX
