@@ -6,7 +6,7 @@ title: Fernando Pereira's CV
 DevSecOps
 
 <div id="webaddress">
-<a href="striving@FernandoMiguel.net">striving@FernandoMiguel.net</a>
+<a href="mailto:striving@FernandoMiguel.net">striving@FernandoMiguel.net</a>
 | <a href="https://github.com/FernandoMiguel/">GitHub.com/FernandoMiguel</a>
 </div>
 
@@ -55,7 +55,6 @@ __Computer and Electronic Engineering__
 ## Publications
 
 `Terraform Registry`
-
 __Terraform module to easily deploy Chamber__
 
 [Harpocrates Module](https://github.com/yopaproperty/terraform-AWS-Harpocrates)
@@ -86,25 +85,19 @@ __Matir Internacional Têxteis, S.A.__, St. Tirso
 ### Relevant Experience & Projects
 
 `DevSecOps Engineer`
-
 __Yopa__
-
-- Coded and deployed source control backed AWS IAM account. This IAM account managed federated users into permission based roles
+- Coded and deployed source control backed AWS IAM account.
 
 
 `DevOps Engineer`
-
 __Sohonet__
-
 - Coded and deployed source control backed AWS IAM account. This IAM account managed federated users into permission based roles
 - Configured a Hashicorp Vault cluster to maintain SSHCA secrets for remote servers
 - Internal Information and Cyber Security Audit (gap analysis against the MPAA requirements).
 
 
 `Senior AWS Consultant`
-
 __Methods__
-
 - Definition of technology strategies to ensure alignment between vision and technology direction
 - Accurate infrastructure assessments, providing risk analysis and costs for cloud migration and planning
 - Successful guidance of DevOps teams on Cloud implementation and security.
@@ -116,9 +109,7 @@ __Methods__
 
 
 `System Administrator`
-
 __Rocket Internet GmbH__
-
 - Founding team member for the European tech centre of Rocket Internet
 - Development, deployment and maintenance of e-commerce server clusters
 - Web system specifications by analysing access, information, and security requirements
@@ -128,18 +119,14 @@ __Rocket Internet GmbH__
 
 
 `Webserver admin`
-
 __Porto Editora__
-
 - Management and deployment of testing, QA and Productive environments for a large number of sites and web services
 - Updates, upgrades, and patches in a timely manner to limit loss of service
 - Job knowledge updates by tracking emerging Internet technologies.
 
 
 `Support Services Unix`
-
 __Mainroad__
-
 - Operation of backups Data Protector
 - Support of Unix, HPUX
 - Customer support on mainframe applications
