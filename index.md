@@ -40,7 +40,7 @@ Fernando has worked in both public and private sectors, having managed a number 
 ## Education and Qualifications
 
 `AWS`
-__Certified Solutions Architect__
+__AWS Certified Solutions Architect__
 * Professional Level
 
 `Degree`
@@ -87,7 +87,17 @@ __Matir Internacional Têxteis, S.A.__, St. Tirso
 
 ### DevSecOps Engineer
 __Yopa__
-- Coded and deployed source control backed AWS IAM account.
+- Performed credential and password hygiene, network vulnerability improvements
+- Coded and deployed source control backed AWS IAM account
+- Migrated all Engineers to aws-vault for secure credential storage, and cross account role access
+- Dockerised all services, introducing standard Docker base images for JAVA, Python, nodejs, lumen, PHP, nginx, etc
+- Improved build process to avoid clutches, improved docker build cache busting
+- Introduced a mono repo used to allow for Point-in-time representation of infrastructure and services code
+- Built Infrastructure-as-code for new AWS infrastructure and for CI/Jenkins, _cattle not pets_
+- Created a docker-compose stack for local development, reproducing production services, supporting Linux, MacOS and Windows
+- Introduced support for AWS KMS across services
+- Coded and migrated S3 policies to conform to GDPR legal requirements
+- Coded and published Harpocrates
 
 
 ### DevOps Engineer
