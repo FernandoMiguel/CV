@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Fernando Pereira's CV
+title: Fernando Pereira
 ---
 # Fernando Pereira
 DevSecOps
